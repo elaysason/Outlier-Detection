@@ -1,6 +1,5 @@
-# Outlier-Detection-
-Utilizing PySpark for distributed data processing to perform outlier detection and clustering on a dataset containing bid request information related to online advertisements, using K-means and Bisecting K-means algorithms, providing clear visualizations of the results
-
+# Outlier-Detection
+Utilizing PySpark for distributed data processing to perform outlier detection and clustering on a dataset containing bid request information related to online advertisements, using K-means and Bisecting K-means algorithms.
 ## Introduction
 
  The code is written in Python and uses PySpark for distributed data processing. The main goal of this project is to detect outliers in a dataset and perform clustering on the data using the K-means and Bisecting K-means algorithms. The dataset contains bid request information related to online advertisements.
